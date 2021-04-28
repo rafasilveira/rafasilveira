@@ -53,4 +53,4 @@ more coming soon... eventually 👁👁
 
 
 
-> This readme was based on [@brandoncoyer](https://github.com/brandoncoyer)'s tutorial on [how to create a nice-looking readme](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
+> This readme was based on [@braydoncoyer](https://github.com/braydoncoyer)'s tutorial on [how to create a nice-looking readme](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
