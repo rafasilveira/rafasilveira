@@ -18,7 +18,16 @@ Most of my work is done in private repos. Here you'll find some test projects, s
 
 more coming soon... eventually 👁👁
 
+## 🚀 Live projects
+- 🛒 [Checkout](https://checkout-ashen.vercel.app/cart): checkout app made with mobile-first principles. Stack: React, TS, SWR, Styled Components
+- 💸 [Payments](https://gdk-challenge-pg5acdx4i-rafasilveira.vercel.app/): payment processing app. Stack: React, TS, Styled Components, Next.JS, MongoDB
+
+
 ## 📌 Pinned Repositories
+
+<a href="https://github.com/rafasilveira/checkout">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=checkout&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/rafasilveira/gdk-challenge">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=gdk-challenge&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -27,7 +36,6 @@ more coming soon... eventually 👁👁
 <a href="https://github.com/rafasilveira/mysocial">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=mysocial&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 
 ## 📈 GitHub Stats
 
@@ -39,9 +47,6 @@ more coming soon... eventually 👁👁
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rafasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rafa's GitHub Stats" />
 </a>
 
-**Disclaimer:** most of my work is on private repos and won't show up here
-
-
-
+**Disclaimer:** most of my work is on private repos and won't show up in the stats
 
 > This readme was based on [@braydoncoyer](https://github.com/braydoncoyer)'s tutorial on [how to create a nice-looking readme](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
