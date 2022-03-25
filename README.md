@@ -14,7 +14,8 @@ Most of my work is done in private repos. Here you'll find some test projects, s
 ## ✏ Some posts
 
 - [Já ouviu falar em PWA?](https://www.linkedin.com/feed/update/urn:li:activity:6715379882785828864/): LinkedIn post about progressive webapps (portuguese)
-- [CSS-in-JS](https://github.com/he4rt/react4noobs/blob/master/docs/Estilizacao/CSS-in-JS.md): introductory article about CSS-in-JS libraries and use cases (portuguese)
+- [CSS-in-JS](https://github.com/he4rt/react4noobs/blob/master/docs/Estilizacao/3.0.CSS-in-JS.md): introductory article about CSS-in-JS libraries and use cases (portuguese)
+- [Styled Components](https://github.com/he4rt/react4noobs/blob/master/docs/Estilizacao/3.1-styled-components.md): hands-on example on one of the most popular CSS-in-JS libraries (portuguese)
 
 more coming soon... eventually 👁👁
 
