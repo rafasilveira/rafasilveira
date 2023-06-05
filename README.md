@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bsrafael/)
 Hello! Welcome 😎
 
-I'm Rafa Silveira, a front-end engineer at [Newfire Global Partners](https://www.newfireglobal.com/). I'm also a Computer Scientist, my final paper was about predictive models on financial data. Here's the [repo](https://github.com/rafasilveira/ibovespa-stocks-prediction).
+I'm Rafa Silveira, a front-end engineer at [Newfire Global Partners](https://www.newfireglobal.com/). I'm graduated as a Computer Science at [UCS](https://www.ucs.br/), and currently studying Software Architecture at [FIAP](https://postech.fiap.com.br/). 
 
 Most of my work is done in private repos. Here you'll find some test projects, studies, and whatnot.
 
