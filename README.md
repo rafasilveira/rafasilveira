@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bsrafael/)
 Hello! Welcome 😎
 
-I'm Rafa Silveira, a front-end engineer at [Newfire Global Partners](https://www.newfireglobal.com/). I'm graduated as a Computer Science at [UCS](https://www.ucs.br/), and currently studying Software Architecture at [FIAP](https://postech.fiap.com.br/). 
+I'm Rafa Silveira, a front-end engineer at [Newfire Global Partners](https://www.newfireglobal.com/). I'm graduated as a Computer Science at [UCS](https://www.ucs.br/).
 
 Most of my work is done in private repos. Here you'll find some test projects, studies, and whatnot.
 
@@ -20,17 +20,10 @@ Most of my work is done in private repos. Here you'll find some test projects, s
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=birafinder&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rafasilveira/nitroforms">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=nitroforms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rafasilveira/the-website">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=the-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rafasilveira/checkout">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=checkout&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/rafasilveira/gdk-challenge">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=gdk-challenge&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 ### 📈 GitHub Stats
@@ -42,15 +35,6 @@ Most of my work is done in private repos. Here you'll find some test projects, s
 <a href="https://github.com/rafasilveira">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rafasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rafa's GitHub Stats" />
 </a>
-
-**Disclaimer:** most of my work is on private repos and won't show up in the stats
-
-
-### ✏ Some posts
-
-- [Já ouviu falar em PWA?](https://www.linkedin.com/feed/update/urn:li:activity:6715379882785828864/): LinkedIn post about progressive webapps (portuguese)
-- [CSS-in-JS](https://github.com/he4rt/react4noobs/blob/master/docs/Estilizacao/3.0.CSS-in-JS.md): introductory article about CSS-in-JS libraries and use cases (portuguese)
-- [Styled Components](https://github.com/he4rt/react4noobs/blob/master/docs/Estilizacao/3.1-styled-components.md): hands-on example on one of the most popular CSS-in-JS libraries (portuguese)
 
 
 > This readme was based on [@braydoncoyer](https://github.com/braydoncoyer)'s tutorial on [how to create a nice-looking readme](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
