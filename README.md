@@ -24,16 +24,12 @@ Most of my work is done in private repos. Here you'll find some test projects, s
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=the-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
-
-### 📈 GitHub Stats
-
-<a href="https://github.com/rafasilveira">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasilveira&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Rafa's GitHub Stats" />
+<a href="https://github.com/rafasilveira/checkout">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=checkout&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rafasilveira">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rafasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rafa's GitHub Stats" />
+<a href="https://github.com/rafasilveira/gdk-challenge">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafasilveira&repo=gdk-challenge&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
